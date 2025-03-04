@@ -1,29 +1,3 @@
-Skip to main content
-GitHub Docs
-Search GitHub Docs
-Home
-Contribute to GitHub Docs
-
-Writing for GitHub Docs
-Best practices for GitHub Docs
-Documentation philosophy
-Documentation fundamentals
-Content design principles
-Write content to be translated
-Make content findable
-Versioning documentation
-Markdown and Liquid
-YAML frontmatter
-Use videos
-Create reusable content
-Create screenshots
-Create diagrams
-Create tool switchers
-Configure redirects
-Change an article's title
-Annotate code examples
-Templates
-
 Style guide and content model
 
 Collaborate on GitHub Docs
